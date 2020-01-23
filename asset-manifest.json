@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/mc-web/static/css/main.35a71dce.chunk.css",
+    "main.js": "/mc-web/static/js/main.8bf9b9d5.chunk.js",
+    "main.js.map": "/mc-web/static/js/main.8bf9b9d5.chunk.js.map",
+    "runtime-main.js": "/mc-web/static/js/runtime-main.c28adf30.js",
+    "runtime-main.js.map": "/mc-web/static/js/runtime-main.c28adf30.js.map",
+    "static/js/2.7bfc1c1d.chunk.js": "/mc-web/static/js/2.7bfc1c1d.chunk.js",
+    "static/js/2.7bfc1c1d.chunk.js.map": "/mc-web/static/js/2.7bfc1c1d.chunk.js.map",
+    "index.html": "/mc-web/index.html",
+    "precache-manifest.0bf960120cda73777988ec714a8ee1f6.js": "/mc-web/precache-manifest.0bf960120cda73777988ec714a8ee1f6.js",
+    "service-worker.js": "/mc-web/service-worker.js",
+    "static/css/main.35a71dce.chunk.css.map": "/mc-web/static/css/main.35a71dce.chunk.css.map",
+    "static/js/2.7bfc1c1d.chunk.js.LICENSE": "/mc-web/static/js/2.7bfc1c1d.chunk.js.LICENSE",
+    "static/media/App.css": "/mc-web/static/media/img3.e1db1483.jpg",
+    "static/media/team.jpg": "/mc-web/static/media/team.90748621.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c28adf30.js",
+    "static/js/2.7bfc1c1d.chunk.js",
+    "static/css/main.35a71dce.chunk.css",
+    "static/js/main.8bf9b9d5.chunk.js"
+  ]
+}
